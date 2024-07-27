@@ -59,14 +59,14 @@ body {
 
 /* Main Hero Section Styles */
 .hero { 
-	background-image: url('./Images/heroImg3.avif'); 
+	background-image: url('/static/img/illustration.png'); 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 
 	width: 100%; 
 	height: 100vh; 
 	display: flex; 
 	align-items: center; 
-	justify-content: start; 
+	justify-content: center; 
 	margin: 4.8rem 0; 
 } 
 
